@@ -2,12 +2,12 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
+- Hi, my name is Saida. 
 - I'm a software engineer.
-- Short Description Here.
+- My introductory portfolio. 
 
 ## About
-Write your "About" section here.
+I am 17 years old and a software developer with expertise in Python (DJANGO), JavaScript, and web development. I have experience in UX/UI design and a strong interest in the field of cybersecurity. 
 
 ## Contact
 Write your "Contact" section here.
