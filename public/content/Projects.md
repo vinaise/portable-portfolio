@@ -5,7 +5,7 @@ Modern Interior Design Studio
 - Badges:
   - BadgeContent [blue]
 - Buttons:
-  - ButtonContent [(https://furni-1-0-0-woad.vercel.app]
+  - ButtonContent [https://furni-1-0-0-woad.vercel.app]
 
 ## Project B
 Description
