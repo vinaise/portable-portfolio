@@ -1,11 +1,11 @@
 Modern Interior Design Studio
-Сutting-edge design project that combines sleek aesthetics with functionality, creating stylish and practical spaces. The studio focuses on contemporary design trends and high-quality finishes, offering innovative solutions for both residential and commercial spaces. It blends minimalism with warmth to create inviting and sophisticated environments that reflect modern lifestyles.
-- ![600x200](https://via.placeholder.com/600x200)
+Cutting-edge design project that combines sleek aesthetics with functionality, creating stylish and practical spaces. The studio focuses on contemporary design trends and high-quality finishes, offering innovative solutions for both residential and commercial spaces. It blends minimalism with warmth to create inviting and sophisticated environments that reflect modern lifestyles.
+- ![image_name]("C:\Users\Victus\Pictures\Screenshots\Снимок экрана 2024-11-27 162658.png")
 - Tags: WebDev
 - Badges:
-  - BadgeContent [blue]
+  - BadgeContent [badge_colour]
 - Buttons:
-  - ButtonContent [https://furni-1-0-0-woad.vercel.app]
+  - ButtonContent [https://github.com/vinaise/furni-1.0.0]
 
 ## Project B
 Description
