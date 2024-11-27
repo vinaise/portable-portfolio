@@ -12,8 +12,8 @@ I am 17 years old and a software developer with expertise in Python (DJANGO), Ja
 ## Contact
 Write your "Contact" section here.
 - LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- GitHub: https://github.com/vinaise
+- Email: caidamambetkazieva@gmail.com
 
 ## Logo
 - SB
