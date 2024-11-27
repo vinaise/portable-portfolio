@@ -18,7 +18,7 @@ Description
 
 ## Project C
 Description
-- ![600x200](https://via.placeholder.com/600x200)
+- ![600x200](https://via.placeholder.com/600x200) 
 - Tags: Category 3
 - Badges:
   - Badge [blue]
